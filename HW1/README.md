@@ -1,5 +1,5 @@
 # HW1
-This homework help us get familiar with the HSPICE tool. The topic include
+This homework helps us get familiar with the HSPICE tool. The topic include
 1. Analyze with Diode Connected Structure 
 2. Drain Current
 3. Body Effect
