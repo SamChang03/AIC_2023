@@ -6,6 +6,9 @@
 .lib `cic018.l' tt
 .unprotect
 .option post
++ post
++ captab
++  ABSTOL=1e-7 RELTOL=1e-7 ACCURATE=1
 
 ****Source****
 vdd vdd 0 1.8
